@@ -1,0 +1,17 @@
+Progetto Slot Machine - Spiegazione
+
+Nella versione di gioco che ho ideato ho reso possibile la registrazione
+di più utenti contemporaneamente i quali a loro volta potranno scegliere su
+quale delle 3 slot machine giocare.
+
+Prima Slot Machine:
+La slot con la maggiore possibilità di vittoria, tuttavia è necessario
+puntare almeno 200€ con una vincita massima per tre simboli uguali di puntata*4
+
+Seconda Slot Machine:
+Meno possibilità di vittoria rispetto alla prima; è necessario puntare
+almeno 100€ per una vincita massima per tre simboli uguali di puntata*6
+
+Terza Slot Machine:
+Minor possibilità di vittoria fra tutte le slot machine; è necessario
+puntare almeno 20€ per una vincita massima per tre simboli uguali di puntata*20
